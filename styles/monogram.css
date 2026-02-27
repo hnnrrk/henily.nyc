@@ -1,0 +1,14 @@
+body {
+  background-color: #f3f3ea;
+  color: #654A11;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.monogram {
+  display: flex;
+  max-width: 16em;
+  filter: drop-shadow(0 1px 0px #fff) drop-shadow(0 -1px 0px #0001);
+}
